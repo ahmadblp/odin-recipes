@@ -1,0 +1,35 @@
+/* style.css*/
+
+div {
+color:white;
+background-color: red;
+font-size: 32px;
+font-weight: bold;
+text-align: center;
+}
+
+h1{
+    color: gold;
+    background-color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+p{
+    color: white;
+    background-color: green;
+    font-size: 20px;
+}
+
+ul{
+    color: gold;
+    background-color: navy;
+    font-weight: bold;
+    font-size: 25px;
+}
+ol{
+    color: white;
+    background-color: blue;
+    font-weight: bold;
+    font-size: 20px;
+}
